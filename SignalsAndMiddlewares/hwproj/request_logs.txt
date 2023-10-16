@@ -1,0 +1,16 @@
+Path: /, Method: GET, Execution Time: 0.268035888671875 seconds
+Path: /favicon.ico, Method: GET, Execution Time: 0.014989852905273438 seconds
+Path: /student, Method: GET, Execution Time: 0.015990018844604492 seconds
+Path: /student/, Method: GET, Execution Time: 0.15262317657470703 seconds
+Path: /, Method: GET, Execution Time: 0.07295608520507812 seconds
+Path: /student/, Method: GET, Execution Time: 0.041974544525146484 seconds
+Path: /student/, Method: POST, Execution Time: 0.10280060768127441 seconds
+Path: /student/, Method: POST, Execution Time: 0.036034584045410156 seconds
+Path: /student/, Method: POST, Execution Time: 0.0239870548248291 seconds
+Path: /student/, Method: POST, Execution Time: 0.026984453201293945 seconds
+Path: /student/, Method: POST, Execution Time: 0.038800716400146484 seconds
+Path: /student/, Method: POST, Execution Time: 0.036865949630737305 seconds
+Path: /student/, Method: POST, Execution Time: 0.027706384658813477 seconds
+Path: /student/, Method: POST, Execution Time: 0.02907419204711914 seconds
+Path: /student/, Method: POST, Execution Time: 0.027134180068969727 seconds
+Path: /student/, Method: POST, Execution Time: 0.03293180465698242 seconds
